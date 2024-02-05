@@ -1,0 +1,13 @@
+.logo {
+    will-change: filter;
+    transition: filter 300ms;
+}
+.tailwind-logo:hover {
+    filter: drop-shadow(0 0 2em #0dacb7aa);
+}
+.vite-logo:hover {
+    filter: drop-shadow(0 0 2em #9d75d9aa);
+}
+.react-logo:hover {
+    filter: drop-shadow(0 0 2em #9790f7aa);
+}
